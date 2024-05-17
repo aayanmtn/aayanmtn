@@ -28,7 +28,7 @@
 <a href="https://twitter.com/aayan__mateen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayan__mateen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aayan-mateen-748221189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayan-mateen-748221189" height="30" width="40" /></a>
 <a href="https://medium.com/@aayanmtn470" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aayanmtn470" height="30" width="40" /></a>
-<a href="https://www.youtube.com@himsecops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himsecops" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HimSecOps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himsecops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
