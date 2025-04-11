@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm AAYAN MATEEN</h1>
-<h3 align="center">A passionate DevOps Engineer aka HimSecOps from India</h3>
+<h1 align="center">Hi 👋, I'm Aayan Mateen </h1>
+<h3 align="center">A passionate DevOps| SysOps Engineer  from Leh,Ladakh ,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayanmtn&label=Profile%20views&color=0e75b6&style=flat" alt="aayanmtn" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/aayan__mateen" target="blank"><img src="https://img.shields.io/twitter/follow/aayan__mateen?logo=twitter&style=for-the-badge" alt="aayan__mateen" /></a> </p>
 
-- 🔭 I’m currently working on **Digital Sierra**
+- 🔭 I’m currently working on **DevOps practice with AI**
 
-- 🌱 I’m currently learning **Kubernates,podman,openshift**
+- 🌱 I’m currently learning **Kubernetes,podman,openshift**
 
 - 👯 I’m looking to collaborate on **Cloud Native**
 
 - 👨‍💻 All of my projects are available at [aayanmateen.](aayanmateen.)
 
-- 💬 Ask me about **Kubernates,Go,AWS**
+- 💬 Ask me about **Kubernetes,Go,AWS**
 
 - 📫 How to reach me **justaayan@gmail.com**
 
