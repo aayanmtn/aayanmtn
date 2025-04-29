@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayanmtn&label=Profile%20views&color=0e75b6&style=flat" alt="aayanmtn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayanmtn" alt="aayanmtn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aayan__mateen" target="blank"><img src="https://img.shields.io/twitter/follow/aayan__mateen?logo=twitter&style=for-the-badge" alt="aayan__mateen" /></a> </p>
 
@@ -12,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@aayanmtn470/helm-lets-install-a-wordpress-application-on-kubernetes-using-helm-f64eea60072f
-https://aayanmateen.hashnode.dev/automating-wordpress-deployment-with-github-actionsand-binbash
+![helm](https://medium.com/@aayanmtn470/helm-lets-install-a-wordpress-application-on-kubernetes-using-helm-f64eea60072f)
+![GitOps with GitHub Action ](https://aayanmateen.hashnode.dev/automating-wordpress-deployment-with-github-actionsand-binbash)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
