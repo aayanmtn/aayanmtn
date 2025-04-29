@@ -11,8 +11,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-![helm](https://medium.com/@aayanmtn470/helm-lets-install-a-wordpress-application-on-kubernetes-using-helm-f64eea60072f)
-![GitOps with GitHub Action ](https://aayanmateen.hashnode.dev/automating-wordpress-deployment-with-github-actionsand-binbash)
+[helm](https://medium.com/@aayanmtn470/helm-lets-install-a-wordpress-application-on-kubernetes-using-helm-f64eea60072f)
+[GitOps with GitHub Action ](https://aayanmateen.hashnode.dev/automating-wordpress-deployment-with-github-actionsand-binbash)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials:
